@@ -1,20 +1,36 @@
-👋 Hey hey! I'm a **QA Engineer** who professionally breaks stuff so users don't have to 🐛💥
+# 👋 Hello, I'm Gaurav Sharma!
 
-🧪 **What I do (besides drink too much Tea ☕):**  
-🔹 Manual Testing – AKA "clicking everything until something explodes" 🖱️💣
-🔹 Automation Testing – because who has time to click the same button 500 times? 🤖
-🔹 **API Testing** – chatting with servers like an undercover agent 🕵️‍♂️📡  
-🔹 **Load Testing** – I love watching systems cry under pressure 💪🔥  
-🔹 **Selenium** – bthe OG browser whisperer 🕷️
-🔹 **Appium** – because mobile apps need love too 📱❤️  
-🔹 **Playwright** – for drama-free end-to-end tests 🎭  
-🔹 **Cypress** – because fast and flaky-free is my vibe 🌲⚡
+I'm a passionate **QA Engineer** and **Windows Application Developer** who loves breaking things (so they can be fixed better!) 🧪💻
 
-🛠️ **Also... I'm not just a tester – I build things too!**  
-🔸 Developer of **Windows Applications** using **C# + WinForms** 🪟💻  
-🔸 Built APIs with **Spring Boot** 🌱  
-🔸 Some light tinkering in **ASP.NET** – enough to be dangerous and deploy weird things 😅  
-🔸 Fluent in **C#** 💙 and **Java** ☕ – the bilingual bug buster
+## 🧠 Skills & Expertise
 
-🧠 I like breaking things. I like fixing things. I *really* like finding things that no one else noticed 🔍✨  
-💬 Let’s connect – whether it’s QA talk, coding banter, or just a good meme exchange 😎📲
+### 🔧 Testing & Automation
+- **Manual Testing**: Clicking all the buttons so users don't have to 🖱️💥
+- **Automation Testing**: Writing scripts to handle the boring stuff 🤖
+- **API Testing**: Making sure your APIs don't misbehave 🔌
+- **Load Testing**: Pushing systems to their limits 🚀
+- **Selenium & Appium**: Because mobile apps need love too 📱❤️
+- **Playwright & Cypress**: For drama-free end-to-end tests 🎭🌲
+
+### 🛠️ Development
+- **Windows Applications**: Building robust apps with C# and WinForms 🪟
+- **API Development**: Crafting APIs using Spring Boot 🌱
+- **ASP.NET**: Dipping my toes into web development 🌐
+
+### 💬 Languages
+- **C#**: Fluent in Windows 🖥️
+- **Java**: Speaking the language of the JVM ☕
+- **JavaScript**: Making the web interactive 🌐
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&layout=compact&theme=radical)
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-handle)
+- [Personal Blog](https://your-blog.com)
+
+Feel free to reach out if you'd like to collaborate or chat about tech, testing, or just share a good meme! 😄
